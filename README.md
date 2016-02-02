@@ -19,6 +19,7 @@ What should you do with it?
      Input: KEY_ARE_YOU_SURE, nl
      Output: Bent u zeker?
 
+ - Maybe include some other interesting endpoints? 
  - Make it available publicly so we can check it out.
  - Share the code with us! 
 
