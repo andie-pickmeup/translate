@@ -1,4 +1,5 @@
 Files:
+
  - import.php
 	This php script will read out a publicly available google sheet and print out a list of 
 		KEY, VALUE, LANGUAGE
@@ -9,6 +10,7 @@ Files:
 	You can read this file for more information. 
 
 What should you do with it?
+
  - Change the import.php file so that it saves all the entries in a database of your choice.
  - Create a REST endpoint that you can fetch a key for a certain language.
 
@@ -19,7 +21,9 @@ What should you do with it?
      Input: KEY_ARE_YOU_SURE, nl
      Output: Bent u zeker?
 
- - Maybe include some other interesting endpoints? 
+ - (Optional) Maybe include some other interesting endpoints/methods. 
+ - (Optional) Add some sort security so only apps using the proper API key can access it.
+ - (Optional) Go nuts!
  - Make it available publicly so we can check it out.
  - Share the code with us! 
 
