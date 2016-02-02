@@ -1,10 +1,3 @@
-    ____     ____   ______    __ __    __  ___    ______   __  __    ____ 
-   / __ \   /  _/  / ____/   / //_/   /  |/  /   / ____/  / / / /   / __ \
-  / /_/ /   / /   / /       / ,<     / /|_/ /   / __/    / / / /   / /_/ /
- / ____/  _/ /   / /___    / /| |   / /  / /   / /___   / /_/ /   / ____/ 
-/_/      /___/   \____/   /_/ |_|  /_/  /_/   /_____/   \____/   /_/      
-								TRANSLATE                                                                         
-
 Files:
  - import.php
 	This php script will read out a publicly available google sheet and print out a list of 
